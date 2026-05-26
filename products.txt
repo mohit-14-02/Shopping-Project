@@ -31,6 +31,14 @@
    Specs: 6.74" AMOLED, Dimensity 9200, 12GB RAM
    Price: INR 899
 
+9) Item: Realme GT 5
+   Specs: 6.74" AMOLED, Snapdragon 8 Gen 2, 12GB RAM
+   Price: INR 649
+
+10) Item: Vivo X100 Pro
+   Specs: 6.78" AMOLED, Snapdragon 8 Gen 3, 16GB RAM
+   Price: INR 949
+
 
 
 
