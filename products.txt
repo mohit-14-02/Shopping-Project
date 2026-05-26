@@ -1,0 +1,26 @@
+
+1) Item: Apple iPhone 14 Pro
+   Specs: 6.1" Super Retina XDR, A16 Bionic, 6GB RAM
+   Price: INR 999
+
+2) Item: Samsung Galaxy S23 Ultra
+   Specs: 6.8" AMOLED, Snapdragon 8 Gen 2, 12GB RAM
+   Price: INR 1199
+
+3) Item: Google Pixel 7 Pro
+   Specs: 6.7" OLED, Google Tensor G2, 12GB RAM
+   Price: INR 899
+
+4) Item: OnePlus 11
+   Specs: 6.7" AMOLED, Snapdragon 8 Gen 2, 8GB RAM
+   Price: INR 699
+
+5) Item: Samsung Galaxy Tab S8
+   Specs: 11" LTPS TFT, Snapdragon 8 Gen 1, 8GB RAM
+   Price: INR 699
+
+
+
+
+
+
