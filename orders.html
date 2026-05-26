@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Orders</title>
+</head>
+<body>
+    <h1>Orders</h1>
+    <p>Here you can view your orders.</p>
+    <form action="/action" method="post">
+        <input list="orders" name="order" placeholder="Search orders...">
+        <datalist id="orders">
+            <option value="Order #001 - Pending">
+            <option value="Order #002 - Shipped">
+            <option value="Order #003 - Delivered">
+        </datalist>
+
+        <button type="submit">Confirm Order</button>
+    </form>
+    
+</body>
+</html>
