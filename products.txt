@@ -19,6 +19,21 @@
    Specs: 11" LTPS TFT, Snapdragon 8 Gen 1, 8GB RAM
    Price: INR 699
 
+6) Item: Apple iPhone 13 Pro
+   Specs: 6.1" Super Retina XDR, A15 Bionic, 6GB RAM
+   Price: INR 799
+
+7) Item: Xiaomi 13T Pro
+   Specs: 6.67" AMOLED, Dimensity 9200+, 12GB RAM
+   Price: INR 749
+
+8) Item: Oppo Find X6 Pro
+   Specs: 6.74" AMOLED, Dimensity 9200, 12GB RAM
+   Price: INR 899
+
+
+
+
 
 
 
